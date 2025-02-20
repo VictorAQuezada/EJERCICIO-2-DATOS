@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DatosYTiposApp.MainPage"
+             BackgroundColor="White">
+    <Grid>
+        <!-- Centrar el contenido -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- Contenido principal -->
+        <StackLayout Grid.Row="1" Padding="20" Spacing="15" HorizontalOptions="Center" VerticalOptions="Center">
+            <!-- Título -->
+            <Label Text="Datos y Tipos de Datos 📊"
+                   FontSize="30"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                   TextColor="#1E90FF" />
+
+            <!-- Subtítulo con el nombre del autor -->
+            <Label Text="Creado por: Víctor Quezada"
+                   FontSize="18"
+                   FontAttributes="Italic"
+                   HorizontalOptions="Center"
+                   TextColor="#4682B4" />
+
+            <!-- Campo de entrada -->
+            <Frame BackgroundColor="White"
+                   BorderColor="#1E90FF"
+                   CornerRadius="10"
+                   Padding="10"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center">
+                <Entry x:Name="InputField"
+                       Placeholder="Ingrese un valor"
+                       FontSize="20"
+                       TextColor="Black"
+                       HorizontalTextAlignment="Center" />
+            </Frame>
+
+            <!-- Botón para determinar el tipo de dato -->
+            <Button Text="Determinar Tipo de Dato"
+                    Clicked="OnDetermineDataTypeClicked"
+                    FontSize="20"
+                    BackgroundColor="#1E90FF"
+                    TextColor="White"
+                    CornerRadius="10"
+                    HorizontalOptions="Center" />
+
+            <!-- Etiqueta para mostrar el resultado -->
+            <Frame BackgroundColor="#98FB98"
+                   CornerRadius="10"
+                   Padding="10"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center">
+                <Label x:Name="ResultLabel"
+                       Text=""
+                       FontSize="20"
+                       TextColor="Black"
+                       HorizontalTextAlignment="Center" />
+            </Frame>
+        </StackLayout>
+    </Grid>
+</ContentPage>

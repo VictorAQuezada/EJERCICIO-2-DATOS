@@ -1,0 +1,15 @@
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\obj\Debug\netstandard2.0\DATOS.csproj.AssemblyReference.cache
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\obj\Debug\netstandard2.0\DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\obj\Debug\netstandard2.0\DATOS.AssemblyInfoInputs.cache
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\obj\Debug\netstandard2.0\DATOS.AssemblyInfo.cs
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\obj\Debug\netstandard2.0\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\bin\Debug\netstandard2.0\DATOS.deps.json
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\bin\Debug\netstandard2.0\DATOS.dll
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\bin\Debug\netstandard2.0\ref\DATOS.dll
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\bin\Debug\netstandard2.0\DATOS.pdb
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\obj\Debug\netstandard2.0\DATOS.dll
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\obj\Debug\netstandard2.0\refint\DATOS.dll
+C:\Users\Shint\Desktop\xamarin\DATOS\DATOS\obj\Debug\netstandard2.0\DATOS.pdb
